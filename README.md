@@ -62,5 +62,5 @@ Conduct your experiments in a secure environment designed with reliability and d
 ## 🚦 Quick Start
 
 ```bash
-Download new Release
-Run MediaTools.exe
+# Download latest release
+# Run MediaTools.exe
